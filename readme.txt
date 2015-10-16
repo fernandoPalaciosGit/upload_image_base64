@@ -1,0 +1,1 @@
+This app let user upload a picture to a server, and store it in database in base64.
